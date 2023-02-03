@@ -2,7 +2,7 @@
 
 ## Info
 
-Some examples used in some Kubernetes Certificates
+Some examples used in some Kub..., kuberr, kuberrrrneeetes Certificates
 
 | Course | Path |
 |--|--|
